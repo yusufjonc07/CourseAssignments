@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+
+body{
+    padding: 1rem;
+}
+
+#header{
+    height: 45vh;
+}
+
+#title{
+    font-size: 12vh;
+    color: #0070c0;
+    font-family: sans-serif;
+}
+
+#portrait{
+    width: 30vh;
+    border: 1px solid black;
+}
+
+#text{
+    margin-top: 27vh;
+    font-size: 5vh;
+}
+
+#name {
+    font-family: "Times New Roman", Times, serif;
+    text-align: right;
+}
+
+#nationality {
+    display: flex;
+    align-items: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 5vh;
+    
+}
+
+#nationality img{
+    margin-left: 10px;
+}
+
+#info{
+    border: 2px solid #0070c0;
+    width:fit-content;
+    padding: 1rem;
+    font-size: 5vh;
+    margin: 10vh auto;
+    font-family: "Rubik", sans-serif;
+    font-weight: 400;
+}

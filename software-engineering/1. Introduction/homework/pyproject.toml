@@ -1,0 +1,21 @@
+[project]
+name = "simple-math"
+version = "2025.03.05"
+dependencies = [
+    "colored"
+]
+requires-python = ">=3.8"
+authors = [
+  {name = "Yusufjon Axmedov", email = "yusufjon@gachon.ac.kr"},
+]
+description = "A simple calculation program"
+keywords = ["gachon", "software", "math", "calculator"]
+classifiers = [
+  "Programming Language :: Python"
+]
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/math"]
+
+[project.scripts]
+run = "mathapp.main:do_math"
