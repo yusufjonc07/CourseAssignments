@@ -21,9 +21,3 @@ class PasswordGenerator(BaseModel):
         
         random.shuffle(password_list)
         return ''.join(password_list)
-
-
-passwd_gen = PasswordGenerator()
-
-# with default
-print(passwd_gen.get())
