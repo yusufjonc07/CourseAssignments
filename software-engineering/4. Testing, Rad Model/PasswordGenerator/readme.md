@@ -1,6 +1,6 @@
 # Password Generator (Python + Pydantic)
 
-A secure, configurable password generator built using **Python** and **Pydantic**. This project allows users to generate random passwords based on their desired composition of uppercase letters, lowercase letters, digits, and special characters.
+A secure, configurable password generator built using **Python** and **Pydantic**.
 
 ## Usage 
 
