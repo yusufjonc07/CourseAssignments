@@ -1,0 +1,13 @@
+table{
+    margin: 5vh 25vw;
+    width: 50vw;
+    text-align: left;
+}
+th, td{
+    padding: 10px 5px;
+}
+
+tr:nth-child(odd) td{
+    background: lightgreen;
+}
+
