@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Personal Health Data Analyzer</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 30px;
+    }
+    h2 {
+      color: #2c3e50;
+    }
+    label {
+      display: block;
+      margin-top: 10px;
+    }
+    input {
+      padding: 5px;
+      width: 200px;
+    }
+    button {
+      margin-top: 15px;
+      padding: 10px 20px;
+    }
+    textarea {
+      width: 100%;
+      height: 150px;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+  <h2>Personal Health Data Analyzer</h2>
+  <h3><a href="report.html">Weekly Reports</a></h3>
+  
+  <form id="healthForm">
+    <label for="steps">Steps:</label>
+    <input type="number" id="steps" name="steps" required>
+
+    <label for="calories">Calories:</label>
+    <input type="number" id="calories" name="calories" required>
+
+    <label for="sleep">Sleep Hours:</label>
+    <input type="number" id="sleep" name="sleep" required>
+
+    <br>
+    <button type="submit">Submit</button>
+  </form>
+
+  <button onclick="downloadCSV()">Download CSV</button>
+  <button onclick="downloadJSON()">Download JSON</button>
+
+  <textarea id="output" readonly></textarea>
+
+  <script>
+    const data = [];
+
+    document.getElementById('healthForm').addEventListener('submit', function(event) {
+      event.preventDefault();
+      const steps = document.getElementById('steps').value;
+      const calories = document.getElementById('calories').value;
+      const sleep = document.getElementById('sleep').value;
+
+      const entry = { steps, calories, sleep, date: new Date().toISOString().split('T')[0] };
+      data.push(entry);
+      document.getElementById('output').value += JSON.stringify(entry) + "\n";
+
+      this.reset();
+    });
+
+    function downloadCSV() {
+      let csv = "Date,Steps,Calories,Sleep Hours\n";
+      data.forEach(d => {
+        csv += `${d.date},${d.steps},${d.calories},${d.sleep}\n`;
+      });
+      downloadFile(csv, 'health_data.csv', 'text/csv');
+    }
+
+    function downloadJSON() {
+      const json = JSON.stringify(data, null, 2);
+      downloadFile(json, 'health_data.json', 'application/json');
+    }
+
+    function downloadFile(content, filename, contentType) {
+      const blob = new Blob([content], { type: contentType });
+      const link = document.createElement("a");
+      link.href = URL.createObjectURL(blob);
+      link.download = filename;
+      link.click();
+    }
+  </script>
+</body>
+</html>
