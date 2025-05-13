@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Weekly Health Summary</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background: #f4f6f8;
+        margin: 20px;
+        padding: 20px;
+      }
+
+      h1 {
+        text-align: center;
+      }
+
+      pre {
+        background-color: #fff;
+        padding: 15px;
+        border-radius: 10px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        white-space: pre-wrap;
+      }
+
+      .chart-container {
+        max-width: 800px;
+        margin: 30px auto;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>📊 Weekly Health Summary</h1>
+    <div class="chart-container">
+      <canvas id="summaryChart"></canvas>
+    </div>
+    <pre id="reportText"></pre>
+
+    <script>
+      const healthData = [
+        { day: "Mon", steps: 7000, calories: 2100, sleep: 7 },
+        { day: "Tue", steps: 5000, calories: 1900, sleep: 6 },
+        { day: "Wed", steps: 8000, calories: 2200, sleep: 7.5 },
+        { day: "Thu", steps: 6000, calories: 2000, sleep: 6.5 },
+        { day: "Fri", steps: 9100, calories: 2300, sleep: 8 },
+        { day: "Sat", steps: 7200, calories: 2150, sleep: 7.8 },
+        { day: "Sun", steps: 5900, calories: 2050, sleep: 9 },
+      ];
+
+      function generateSummary(data) {
+        let totalSteps = 0,
+          totalCalories = 0,
+          totalSleep = 0;
+        let maxSteps = -1,
+          bestDay = "";
+
+        data.forEach((entry) => {
+          totalSteps += entry.steps;
+          totalCalories += entry.calories;
+          totalSleep += entry.sleep;
+
+          if (entry.steps > maxSteps) {
+            maxSteps = entry.steps;
+            bestDay = entry.day;
+          }
+        });
+
+        const avgSteps = (totalSteps / data.length).toFixed(2);
+        const avgCalories = (totalCalories / data.length).toFixed(2);
+        const avgSleep = (totalSleep / data.length).toFixed(2);
+
+        return `
+📊 Weekly Summary Report:
+-------------------------
+Steps:
+- Total: ${totalSteps}
+- Average/day: ${avgSteps}
+- Max: ${maxSteps} (${bestDay})
+
+Calories:
+- Total: ${totalCalories}
+- Average/day: ${avgCalories}
+
+Sleep:
+- Average hours/night: ${avgSleep}
+`;
+      }
+
+      function renderChart(data) {
+        const labels = data.map((d) => d.day);
+        const steps = data.map((d) => d.steps);
+        const calories = data.map((d) => d.calories);
+        const sleep = data.map((d) => d.sleep);
+
+        new Chart(document.getElementById("summaryChart"), {
+          type: "bar",
+          data: {
+            labels: labels,
+            datasets: [
+              {
+                label: "Steps",
+                data: steps,
+                backgroundColor: "rgba(54, 162, 235, 0.7)",
+              },
+              {
+                label: "Calories",
+                data: calories,
+                backgroundColor: "rgba(255, 99, 132, 0.7)",
+              },
+              {
+                label: "Sleep (hrs)",
+                data: sleep,
+                backgroundColor: "rgba(75, 192, 192, 0.7)",
+              },
+            ],
+          },
+          options: {
+            responsive: true,
+            scales: {
+              y: {
+                beginAtZero: true,
+              },
+            },
+          },
+        });
+      }
+
+      // Display the report
+      document.getElementById("reportText").textContent =
+        generateSummary(healthData);
+      renderChart(healthData);
+    </script>
+  </body>
+</html>
