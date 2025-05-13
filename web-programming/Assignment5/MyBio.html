@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>My Bio</title>
+    <link rel="stylesheet" href="../Assignment3/bootstrap.min.css" />
+  </head>
+  <body>
+    <table class="table table-striped">
+      <thead>
+        <tr>
+          <th>Property</th>
+          <th>Property value</th>
+        </tr>
+      </thead>
+      <tbody id="bio_data"></tbody>
+    </table>
+  </body>
+  <script>
+    const person = {
+      firstName: "Yusufjon",
+      lastName: "Axmedov",
+      age: 21,
+      eyeColor: "dark brown",
+    };
+
+    let tbody = document.getElementById("bio_data");
+
+    for (const [key, value] of Object.entries(person)) {
+      tbody.innerHTML += `<tr><td>${key}</td><td>${value}</td></tr>`;
+      console.log(`<tr><td>${key}</td><td>${value}</td></tr>`);
+    }
+  </script>
+</html>
