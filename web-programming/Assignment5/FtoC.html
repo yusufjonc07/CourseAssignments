@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Temprature Converter</title>
+    <link rel="stylesheet" href="FtoC.css" />
+  </head>
+  <body>
+    <form action="#">
+      <h1>Temprature Converter</h1>
+      <p>
+        Type a value in the Fahrenheit field to convert the value to Celcius:
+      </p>
+      <label for="f_input"> Fahrenheit </label>
+      <input
+        type="number"
+        step="0.001"
+        id="f_input"
+        placeholder="Fahrenheit (&deg;F)"
+      />
+      <button onclick="convertHandler(event)">Convert</button>
+      <p>Celcius: <span id="c_result">-</span> &deg;C</p>
+    </form>
+  </body>
+  <script src="FtoC.js"></script>
+</html>
