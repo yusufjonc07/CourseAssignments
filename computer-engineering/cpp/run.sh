@@ -1,0 +1,1 @@
+g++ loops.cpp -o main && ./main
