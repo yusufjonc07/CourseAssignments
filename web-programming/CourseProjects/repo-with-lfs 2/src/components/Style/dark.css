@@ -1,0 +1,121 @@
+:root {
+  --dark: rgb(50, 55, 65);
+  --dark-border: rgb(245, 245, 245, 0.3);
+}
+
+.dark {
+  color: whitesmoke;
+  background: var(--dark);
+}
+
+/* card */
+
+.dark .card {
+  color: whitesmoke;
+  background: var(--dark);
+  border: 1px solid var(--dark-border);
+}
+
+/* nav */
+
+.dark .nav-link {
+  background: var(--dark-border);
+}
+
+/* table */
+
+.dark table {
+  color: whitesmoke;
+}
+
+.dark table tr:hover {
+  color: #fff !important;
+}
+
+.dark table tbody tr:hover {
+  color: white !important;
+}
+
+.dark table tbody tr,
+.dark table tbody tr:hover {
+  background: var(--dark);
+}
+
+.dark .table th {
+  border-bottom: 1px solid;
+}
+
+.dark .table td {
+  border: none;
+}
+
+/* input */
+.dark input,
+.dark textarea,
+.dark select {
+  color: #fff !important;
+  background: rgb(128, 128, 128, 0.2) !important;
+  border-color: var(--dark-border) !important;
+}
+
+.dark input:focus,
+.dark textarea:focus,
+.dark select:focus {
+  border-color: var(--blue) !important;
+  background: var(--dark) !important;
+}
+
+.dark .input-group-text {
+  color: whitesmoke;
+  background: var(--dark) !important;
+  border-color: var(--dark-border);
+}
+
+/* dropdown */
+
+.dark .dropdown-menu {
+  background-color: var(--dark);
+}
+
+.dark .dropdown-menu .dropdown-item {
+  color: whitesmoke;
+}
+
+.dark .dropdown-menu .dropdown-item:hover {
+  background-color: rgba(245, 245, 245, 0.1);
+}
+
+/* modal */
+
+.dark .modal-content {
+  color: whitesmoke;
+  background: var(--dark);
+}
+
+/* offcanvas */
+
+.dark .offcanvas {
+  color: whitesmoke;
+  background-color: var(--dark);
+}
+
+/* details */
+
+.dark details summary p {
+  color: lightgray;
+}
+
+/* list-group */
+
+.dark .list-group-item {
+  color: whitesmoke;
+  background: var(--dark);
+}
+
+.dark .list-group-item:hover {
+  background-color: rgb(0, 0, 0, 0.1);
+}
+
+.dark .list-group-item:active {
+  background-color: rgb(0, 0, 0, 0.2);
+}
