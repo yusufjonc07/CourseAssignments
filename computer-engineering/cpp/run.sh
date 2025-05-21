@@ -1,1 +1,1 @@
-g++ pointers.cpp -o main && ./main
+g++ factorial.cpp -o main && ./main
