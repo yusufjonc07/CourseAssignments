@@ -1,1 +1,1 @@
-g++ loops.cpp -o main && ./main
+g++ pointers.cpp -o main && ./main
