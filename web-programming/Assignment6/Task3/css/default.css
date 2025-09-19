@@ -1,0 +1,16 @@
+.wrapper{
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.chart-container {
+	width:  50%;
+	height: 33%;
+	margin: 0 auto;
+}
+
+.chart-container-sm {
+	width:  25%;
+	height: 33%;
+	margin: 0 auto;
+}
