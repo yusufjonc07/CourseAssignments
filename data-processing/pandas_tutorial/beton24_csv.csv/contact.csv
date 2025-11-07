@@ -1,0 +1,1147 @@
+"2","backend\models\Costumer","17","0","-"
+"3","backend\models\Costumer","18","913082700","-"
+"5","backend\models\Costumer","20","913380222","-"
+"8","backend\models\Costumer","23","977978409","-"
+"9","backend\models\Costumer","24","0","-"
+"10","backend\models\Costumer","25","996433030","-"
+"12","backend\models\Costumer","27","993797555","-"
+"13","backend\models\Costumer","28","0","-"
+"16","backend\models\Costumer","31","914161575","-"
+"17","backend\models\Costumer","32","972987777","-"
+"18","backend\models\Costumer","46","0","-"
+"20","backend\models\Costumer","48","0","-"
+"21","backend\models\Costumer","49","0","-"
+"22","backend\models\Costumer","50","0","-"
+"23","backend\models\Costumer","63","938489111","-"
+"24","backend\models\Costumer","64","0","-"
+"25","backend\models\Costumer","68","993808000","-"
+"26","backend\models\Costumer","79","935011582","-"
+"27","backend\models\Costumer","81","973223933","-"
+"29","backend\models\Costumer","102","901894664","-"
+"30","backend\models\Costumer","103","997500411","-"
+"31","backend\models\Costumer","104","994299999","-"
+"32","backend\models\Costumer","105","934645858","-"
+"34","backend\models\Costumer","107","0","-"
+"35","backend\models\Costumer","108","0","-"
+"36","backend\models\Costumer","109","905002222","-"
+"38","backend\models\Costumer","111","0","-"
+"39","backend\models\Costumer","112","0","-"
+"40","backend\models\Costumer","113","0","-"
+"41","backend\models\Costumer","114","0","-"
+"42","backend\models\Costumer","115","973207163","-"
+"43","backend\models\Costumer","116","930882600","-"
+"44","backend\models\Costumer","117","0","-"
+"46","backend\models\Costumer","119","0","-"
+"47","backend\models\Costumer","120","932672762","-"
+"48","backend\models\Costumer","121","0","-"
+"49","backend\models\Costumer","124","997507744","-"
+"51","backend\models\Costumer","126","0","-"
+"52","backend\models\Costumer","134","0","-"
+"53","backend\models\Costumer","135","0","-"
+"54","backend\models\Costumer","138","905002222","-"
+"57","backend\models\Costumer","186","0","-"
+"59","backend\models\Costumer","201","906656828","-"
+"60","backend\models\Costumer","205","901345444","-"
+"61","backend\models\Costumer","206","0","-"
+"62","backend\models\Costumer","207","0","-"
+"63","backend\models\Costumer","208","0","-"
+"64","backend\models\Costumer","209","880858684","-"
+"65","backend\models\Costumer","210","993617758","-"
+"66","backend\models\Costumer","211","0","-"
+"67","backend\models\Costumer","212","0","-"
+"69","backend\models\Costumer","214","0","-"
+"70","backend\models\Costumer","215","0","-"
+"71","backend\models\Costumer","216","0","-"
+"72","backend\models\Costumer","217","0","-"
+"73","backend\models\Costumer","218","0","-"
+"74","backend\models\Costumer","219","912492224","-"
+"75","backend\models\Costumer","220","0","-"
+"76","backend\models\Costumer","221","995764645","-"
+"77","backend\models\Costumer","222","0","-"
+"78","backend\models\Costumer","223","0","-"
+"80","backend\models\Costumer","225","0","-"
+"81","backend\models\Costumer","226","0","-"
+"82","backend\models\Costumer","227","993327070","-"
+"83","backend\models\Costumer","228","0","-"
+"84","backend\models\Costumer","229","0","-"
+"85","backend\models\Costumer","230","0","-"
+"86","backend\models\Costumer","231","0","-"
+"87","backend\models\Costumer","232","914382277","-"
+"88","backend\models\Costumer","233","0","-"
+"89","backend\models\Costumer","234","0","-"
+"90","backend\models\Costumer","235","0","-"
+"91","backend\models\Costumer","236","914382277","-"
+"92","backend\models\Costumer","237","0","-"
+"93","backend\models\Costumer","238","0","-"
+"95","backend\models\Costumer","240","0","-"
+"96","backend\models\Costumer","241","0","-"
+"97","backend\models\Costumer","242","0","-"
+"99","backend\models\Costumer","244","880850500","-"
+"100","backend\models\Costumer","245","0","-"
+"101","backend\models\Costumer","246","942222822","-"
+"102","backend\models\Costumer","247","0","-"
+"103","backend\models\Costumer","248","909997671","-"
+"104","backend\models\Costumer","249","0","-"
+"106","backend\models\Costumer","251","0","-"
+"107","backend\models\Costumer","252","0","-"
+"108","backend\models\Costumer","253","903365744","-"
+"109","backend\models\Costumer","254","0","-"
+"110","backend\models\Costumer","255","913365545","-"
+"111","backend\models\Costumer","256","0","-"
+"112","backend\models\Costumer","257","935901552","-"
+"113","backend\models\Costumer","258","0","-"
+"115","backend\models\Costumer","260","0","-"
+"116","backend\models\Costumer","261","0","-"
+"117","backend\models\Costumer","262","939533939","-"
+"118","backend\models\Costumer","263","0","-"
+"119","backend\models\Costumer","264","0","-"
+"120","backend\models\Costumer","265","0","-"
+"122","backend\models\Costumer","267","0","-"
+"123","backend\models\Costumer","268","0","-"
+"124","backend\models\Costumer","269","0","-"
+"125","backend\models\Costumer","270","913316070","-"
+"126","backend\models\Costumer","271","0","-"
+"127","backend\models\Costumer","272","0","-"
+"128","backend\models\Costumer","273","0","-"
+"129","backend\models\Costumer","275","907300087","-"
+"130","backend\models\Costumer","276","0","-"
+"131","backend\models\Costumer","311","918553500","-"
+"132","backend\models\Costumer","312","913374747","-"
+"133","backend\models\Costumer","313","913303636","-"
+"134","backend\models\Costumer","314","913114748","-"
+"135","backend\models\Costumer","315","973681833","-"
+"136","backend\models\Costumer","316","934351000","-"
+"137","backend\models\Costumer","317","0","-"
+"139","backend\models\Costumer","319","0","-"
+"140","backend\models\Costumer","320","0","-"
+"141","backend\models\Costumer","321","913322276","-"
+"142","backend\models\Costumer","322","0","-"
+"143","backend\models\Costumer","323","0","-"
+"145","backend\models\Costumer","325","918529900","-"
+"146","backend\models\Costumer","353","973664750","-"
+"147","backend\models\Costumer","354","99000000","-"
+"148","backend\models\Costumer","355","99000000","-"
+"149","backend\models\Costumer","356","99000000","-"
+"150","backend\models\Costumer","357","99000000","-"
+"151","backend\models\Costumer","358","99000000","-"
+"152","backend\models\Costumer","359","99000000","-"
+"153","backend\models\Costumer","360","99000000","-"
+"154","backend\models\Costumer","361","99000000","-"
+"155","backend\models\Costumer","362","99000000","-"
+"156","backend\models\Costumer","363","99000000","-"
+"157","backend\models\Costumer","364","99000000","-"
+"158","backend\models\Costumer","365","99000000","-"
+"159","backend\models\Costumer","366","99000000","-"
+"160","backend\models\Costumer","367","991234567","-"
+"161","backend\models\Costumer","368","99000000","-"
+"162","backend\models\Costumer","369","99000000","-"
+"163","backend\models\Costumer","370","99000000","-"
+"164","backend\models\Costumer","371","99000000","-"
+"166","backend\models\Costumer","373","99000000","-"
+"167","backend\models\Costumer","374","99000000","-"
+"168","backend\models\Costumer","375","99000000","-"
+"169","backend\models\Costumer","376","99000000","-"
+"170","backend\models\Costumer","377","99000000","-"
+"171","backend\models\Costumer","378","99000000","-"
+"172","backend\models\Costumer","379","99000000","-"
+"173","backend\models\Costumer","393","0","-"
+"174","backend\models\Costumer","394","90900909","-"
+"175","backend\models\Costumer","400","0","-"
+"176","backend\models\Costumer","403","99","-"
+"177","backend\models\Costumer","404","99","-"
+"178","backend\models\Costumer","405","99","-"
+"179","backend\models\Costumer","406","972971413","-"
+"180","backend\models\Costumer","409","995840880","-"
+"181","backend\models\Costumer","410","0","-"
+"183","backend\models\Costumer","412","0","-"
+"184","backend\models\Costumer","413","0","-"
+"185","backend\models\Costumer","414","0","-"
+"186","backend\models\Costumer","415","0","-"
+"187","backend\models\Costumer","416","0","-"
+"188","backend\models\Costumer","417","0","-"
+"189","backend\models\Costumer","418","0","-"
+"193","backend\models\Costumer","423","0","-"
+"194","backend\models\Costumer","424","0","-"
+"195","backend\models\Costumer","425","936614664","-"
+"196","backend\models\Costumer","426","0","-"
+"197","backend\models\Costumer","427","0","-"
+"198","backend\models\Costumer","430","0","-"
+"199","backend\models\Costumer","431","934645858","-"
+"200","backend\models\Costumer","432","0","-"
+"201","backend\models\Costumer","434","0","-"
+"202","backend\models\Costumer","436","0","-"
+"206","backend\models\Costumer","440","0","-"
+"207","backend\models\Costumer","441","0","-"
+"208","backend\models\Costumer","442","938937711","-"
+"209","backend\models\Costumer","444","0","-"
+"210","backend\models\Costumer","445","0","-"
+"211","backend\models\Costumer","446","910333327","-"
+"212","backend\models\Costumer","448","99","-"
+"213","backend\models\Costumer","449","906653737","-"
+"214","backend\models\Costumer","450","0","-"
+"215","backend\models\Costumer","452","0","-"
+"216","backend\models\Costumer","453","913088866","-"
+"217","backend\models\Costumer","454","993357652","-"
+"218","backend\models\Costumer","455","931560500","-"
+"219","backend\models\Costumer","456","0","-"
+"221","backend\models\Costumer","459","997081362","-"
+"223","backend\models\Costumer","461","0","-"
+"224","backend\models\Costumer","462","0","-"
+"225","backend\models\Costumer","463","0","-"
+"226","backend\models\Costumer","464","0","-"
+"228","backend\models\Costumer","467","0","-"
+"230","backend\models\Costumer","469","0","-"
+"231","backend\models\Costumer","470","0","-"
+"232","backend\models\Costumer","471","913372222","-"
+"233","backend\models\Costumer","472","941234748","-"
+"234","backend\models\Costumer","473","909518614","-"
+"235","backend\models\Costumer","474","0","-"
+"236","backend\models\Costumer","475","971300052","-"
+"237","backend\models\Costumer","476","0","-"
+"238","backend\models\Costumer","477","0","-"
+"239","backend\models\Costumer","478","0","-"
+"240","backend\models\Costumer","479","0","-"
+"241","backend\models\Costumer","480","0","-"
+"242","backend\models\Costumer","481","0","-"
+"244","backend\models\Costumer","483","0","-"
+"245","backend\models\Costumer","484","0","-"
+"246","backend\models\Costumer","485","0","-"
+"247","backend\models\Costumer","486","0","-"
+"248","backend\models\Costumer","487","0","-"
+"249","backend\models\Costumer","488","970857288","-"
+"250","backend\models\Costumer","489","0","-"
+"251","backend\models\Costumer","490","0","-"
+"252","backend\models\Costumer","491","905000011","-"
+"253","backend\models\Costumer","492","0","-"
+"254","backend\models\Costumer","493","0","-"
+"255","backend\models\Costumer","494","0","-"
+"256","backend\models\Costumer","495","0","-"
+"257","backend\models\Costumer","496","944814749","-"
+"258","backend\models\Costumer","497","987785102","-"
+"259","backend\models\Costumer","498","933199969","-"
+"260","backend\models\Costumer","499","0","-"
+"261","backend\models\Costumer","500","0","-"
+"262","backend\models\Costumer","501","0","-"
+"263","backend\models\Costumer","502","994178545","-"
+"264","backend\models\Costumer","503","998905007","-"
+"265","backend\models\Costumer","504","930727999","-"
+"266","backend\models\Costumer","505","0","-"
+"267","backend\models\Costumer","506","999935575","-"
+"268","backend\models\Costumer","507","0","-"
+"269","backend\models\Costumer","508","0","-"
+"270","backend\models\Costumer","509","0","-"
+"271","backend\models\Costumer","510","0","-"
+"272","backend\models\Costumer","511","0","-"
+"273","backend\models\Costumer","512","999670008","-"
+"275","backend\models\Costumer","514","0","-"
+"276","backend\models\Costumer","515","0","-"
+"277","backend\models\Costumer","516","0","-"
+"278","backend\models\Costumer","517","0","-"
+"279","backend\models\Costumer","518","905016605","-"
+"280","backend\models\Costumer","519","907174024","-"
+"281","backend\models\Costumer","520","931561619","-"
+"282","backend\models\Costumer","521","907315555","-"
+"284","backend\models\Costumer","523","0","-"
+"285","backend\models\Costumer","524","0","-"
+"286","backend\models\Costumer","525","0","-"
+"288","backend\models\Costumer","527","0","-"
+"289","backend\models\Costumer","528","0","-"
+"290","backend\models\Costumer","529","997177711","-"
+"291","backend\models\Costumer","530","886419193","-"
+"292","backend\models\Costumer","531","977039999","-"
+"293","backend\models\Costumer","532","0","-"
+"294","backend\models\Costumer","533","973221086","-"
+"295","backend\models\Costumer","534","934371010","-"
+"296","backend\models\Costumer","535","936640100","-"
+"297","backend\models\Costumer","536","0","-"
+"298","backend\models\Costumer","537","0","-"
+"300","backend\models\Costumer","539","985707000","-"
+"301","backend\models\Costumer","540","977978848","-"
+"302","backend\models\Costumer","541","977978848","-"
+"303","backend\models\Costumer","542","0","-"
+"304","backend\models\Costumer","543","939551140","-"
+"305","backend\models\Costumer","544","882284272","-"
+"306","backend\models\Costumer","545","0","-"
+"307","backend\models\Costumer","546","0","-"
+"308","backend\models\Costumer","547","979280466","-"
+"309","backend\models\Costumer","548","907171000","-"
+"310","backend\models\Costumer","549","912492224","-"
+"311","backend\models\Costumer","550","338072222","-"
+"312","backend\models\Costumer","551","934648803","-"
+"313","backend\models\Costumer","552","0","-"
+"314","backend\models\Costumer","553","111111111","-"
+"315","backend\models\Costumer","554","913374000","-"
+"317","backend\models\Costumer","556","0","-"
+"318","backend\models\Costumer","557","999917777","-"
+"320","backend\models\Costumer","559","942561010","-"
+"321","backend\models\Costumer","560","913398000","-"
+"322","backend\models\Costumer","561","914161575","-"
+"323","backend\models\Costumer","562","0","-"
+"324","backend\models\Costumer","563","972987777","-"
+"326","backend\models\Costumer","565","0","-"
+"327","backend\models\Costumer","566","997572591","-"
+"328","backend\models\Costumer","567","907327205","-"
+"329","backend\models\Costumer","568","111111111","-"
+"330","backend\models\Costumer","569","942240000","-"
+"331","backend\models\Costumer","570","0","-"
+"332","backend\models\Costumer","571","934382742","-"
+"333","backend\models\Costumer","572","0","-"
+"334","backend\models\Costumer","573","913082700","-"
+"335","backend\models\Costumer","574","913082700","-"
+"336","backend\models\Costumer","575","913082700","-"
+"337","backend\models\Costumer","576","0","-"
+"338","backend\models\Costumer","577","0","-"
+"339","backend\models\Costumer","578","0","-"
+"340","backend\models\Costumer","579","919905500","-"
+"342","backend\models\Costumer","581","900871000","-"
+"343","backend\models\Costumer","582","1","-"
+"344","backend\models\Costumer","583","906207777","-"
+"345","backend\models\Costumer","584","0","-"
+"346","backend\models\Costumer","585","906460003","-"
+"347","backend\models\Costumer","586","913082700","-"
+"348","backend\models\Costumer","587","0","-"
+"349","backend\models\Costumer","588","910891110","-"
+"350","backend\models\Costumer","589","0","-"
+"351","backend\models\Costumer","590","935225725","-"
+"352","backend\models\Costumer","591","997751135","-"
+"353","backend\models\Costumer","592","0","-"
+"354","backend\models\Costumer","593","934610404","-"
+"355","backend\models\Costumer","594","0","-"
+"356","backend\models\Costumer","595","0","-"
+"357","backend\models\Costumer","596","1","-"
+"358","backend\models\Costumer","597","0","-"
+"360","backend\models\Costumer","599","997271719","-"
+"362","backend\models\Costumer","601","918529900","-"
+"363","backend\models\Costumer","602","0","-"
+"364","backend\models\Costumer","603","940240125","-"
+"366","backend\models\Costumer","605","912492224","-"
+"367","backend\models\Costumer","606","936607848","-"
+"369","backend\models\Costumer","608","931194665","-"
+"371","backend\models\Costumer","610","0","-"
+"372","backend\models\Costumer","611","0","-"
+"373","backend\models\Costumer","612","0","-"
+"374","backend\models\Costumer","613","942568610","-"
+"375","backend\models\Costumer","614","0","-"
+"376","backend\models\Costumer","615","0","-"
+"378","backend\models\Costumer","617","934354664","-"
+"379","backend\models\Costumer","618","0","-"
+"380","backend\models\Costumer","619","936123733","-"
+"383","backend\models\Costumer","622","913388888","-"
+"384","backend\models\Costumer","623","0","-"
+"387","backend\models\Costumer","626","932159030","-"
+"389","backend\models\Costumer","628","907317744","-"
+"391","backend\models\Costumer","630","997507744","-"
+"392","backend\models\Costumer","631","937045705","-"
+"393","backend\models\Costumer","632","0","-"
+"394","backend\models\Costumer","633","0","-"
+"395","backend\models\Costumer","634","0","-"
+"396","backend\models\Costumer","635","0","-"
+"401","backend\models\Costumer","640","997527755","-"
+"402","backend\models\Costumer","641","0","-"
+"404","backend\models\Costumer","643","770078429","-"
+"405","backend\models\Costumer","644","902339999","-"
+"409","backend\models\Costumer","648","997317222","-"
+"410","backend\models\Costumer","649","933156026","-"
+"411","backend\models\Costumer","650","973797001","-"
+"412","backend\models\Costumer","651","919911338","-"
+"413","backend\models\Costumer","652","993847303","-"
+"415","backend\models\Costumer","654","933152797","-"
+"416","backend\models\Costumer","655","0","-"
+"417","backend\models\Costumer","656","0","-"
+"418","backend\models\Costumer","657","997714488","-"
+"419","backend\models\Costumer","658","0","-"
+"421","backend\models\Costumer","660","993314444","-"
+"422","backend\models\Costumer","661","990748852","-"
+"423","backend\models\Costumer","662","953602222","-"
+"424","backend\models\Costumer","663","0","-"
+"425","backend\models\Costumer","664","0","-"
+"426","backend\models\Costumer","665","0","-"
+"427","backend\models\Costumer","666","973780757","-"
+"428","backend\models\Costumer","667","0","-"
+"429","backend\models\Costumer","668","0","-"
+"430","backend\models\Costumer","669","906186880","-"
+"431","backend\models\Costumer","670","934620020","-"
+"432","backend\models\Costumer","671","991120241","-"
+"433","backend\models\Costumer","672","996641824","-"
+"434","backend\models\Costumer","673","900857777","-"
+"435","backend\models\Costumer","674","997521177","-"
+"436","backend\models\Costumer","675","935211174","-"
+"437","backend\models\Costumer","676","973224044","-"
+"439","backend\models\Costumer","678","0","-"
+"440","backend\models\Costumer","679","945763777","-"
+"441","backend\models\Costumer","680","0","-"
+"442","backend\models\Costumer","681","0","-"
+"443","backend\models\Costumer","682","914088080","-"
+"444","backend\models\Costumer","683","0","-"
+"447","backend\models\Costumer","686","0","-"
+"1026","backend\models\Costumer","688","901290222","asosiy"
+"1029","backend\models\Costumer","689","943737102",
+"1030","backend\models\Costumer","687","0","-"
+"1031","backend\models\Costumer","690","933109191",
+"1033","backend\models\Costumer","691","938596020",
+"1034","backend\models\Costumer","692","........",
+"1037","backend\models\Costumer","694","973946474",
+"1038","backend\models\Costumer","695","938089998",
+"1041","backend\models\Costumer","698","907315942","907315942"
+"1045","backend\models\Costumer","699","842549232",
+"1047","backend\models\Costumer","705","997596348",
+"1053","backend\models\Costumer","706","936600823",
+"1054","backend\models\Costumer","707","906188269","СОДИКОВ ЖАСУР"
+"1055","backend\models\Costumer","702","0","ОБЛОЕВ ХАСАН"
+"1056","backend\models\Costumer","468","942512959","жонибек ака"
+"1057","backend\models\Costumer","709","915510047","иларуН вомиаН"
+"1058","backend\models\Costumer","711","942287709",
+"1067","backend\models\Costumer","713","905000011",
+"1068","backend\models\Costumer","714","994170616",
+"1069","backend\models\Costumer","580","937074442","-"
+"1074","backend\models\Costumer","716","995085700","АЛИМОВ РАШИД"
+"1075","backend\models\Costumer","717","934363000","ТОШИМОВ ШАХЗОД"
+"1076","backend\models\Costumer","718","934380369",
+"1077","backend\models\Costumer","722","936618445",
+"1082","backend\models\Costumer","724","934303557",
+"1083","backend\models\Costumer","723","942549939","ТУРСУНПУЛАТОВ ФАРРУХ"
+"1086","backend\models\Costumer","187","945901101","-"
+"1087","backend\models\Costumer","727","933239295","УМАРОВ ДИЛМУРОД"
+"1089","backend\models\Costumer","730","918454346",
+"1090","backend\models\Costumer","731","907304206",
+"1094","backend\models\Costumer","685","0","-"
+"1095","backend\models\Costumer","735","957002881","Норкулов Ойбек"
+"1096","backend\models\Costumer","736","906467797",
+"1097","backend\models\Costumer","737","0","СУЛАЙМОННОВ ЖАББОР"
+"1098","backend\models\Costumer","318","998712212","Улугбек"
+"1099","backend\models\Costumer","738","943142700","АДИЗОВ УММАТ"
+"1100","backend\models\Costumer","739","992552600",
+"1101","backend\models\Costumer","740","+99891554",
+"1103","backend\models\Costumer","460","931491111","-"
+"1106","backend\models\Costumer","741","993815111","насуХ вориоТ"
+"1112","backend\models\Costumer","729","883658228",
+"1114","backend\models\Costumer","746","0","0"
+"1115","backend\models\Costumer","747","+99894228",
+"1116","backend\models\Costumer","458","913320717","Гиес ака"
+"1120","backend\models\Costumer","745","0","0"
+"1121","backend\models\Costumer","750","933106850","ТЕШАЕВ БАХТИЁР"
+"1125","backend\models\Costumer","755","999401900","НАИМОВ БОБИРЖОН"
+"1126","backend\models\Costumer","754","0",
+"1130","backend\models\Costumer","744","0","0"
+"1139","backend\models\Costumer","758","933159449",
+"1140","backend\models\Costumer","759","944805343",
+"1141","backend\models\Costumer","759","913319621",
+"1142","backend\models\Costumer","760","936605246",
+"1143","backend\models\Costumer","756","990685964",
+"1144","backend\models\Costumer","763","912545885","Хикматов Толиб"
+"1145","backend\models\Costumer","764","934371212","Идиев Алишер"
+"1146","backend\models\Costumer","710","973684144",
+"1150","backend\models\Costumer","766","918454346",
+"1153","backend\models\Costumer","767","914432277",
+"1155","backend\models\Costumer","769","934310168","Облакулова Саломат"
+"1156","backend\models\Costumer","770","948472504",
+"1162","backend\models\Costumer","728","913330888","ТУХТАЕВ БУРОНБЕК"
+"1169","backend\models\Costumer","778","919907787",
+"1170","backend\models\Costumer","777","934374774","МАКСУД АКА"
+"1171","backend\models\Costumer","438","943444000","-"
+"1172","backend\models\Costumer","779","992780700",
+"1174","backend\models\Costumer","780","880854600","Эргашов Лазиз"
+"1175","backend\models\Costumer","781","973224700",
+"1176","backend\models\Costumer","782","991088025",
+"1180","backend\models\Costumer","785","997302500","Бекназаров Барно"
+"1181","backend\models\Costumer","787","906478212",
+"1183","backend\models\Costumer","788","973221888",
+"1184","backend\models\Costumer","789","994230500","ЯДГАРОВ КАХРАМОН"
+"1186","backend\models\Costumer","790","0","ЗАКИРОВ УМАР"
+"1187","backend\models\Costumer","791","330420047",
+"1190","backend\models\Costumer","795","934363322",
+"1192","backend\models\Costumer","796","913339272",
+"1194","backend\models\Costumer","797","930784217","Абдусаломов Темур"
+"1197","backend\models\Costumer","798","505155909","Турсунов Учкун"
+"1201","backend\models\Costumer","801","997508255","Зиедов Азиз"
+"1204","backend\models\Costumer","804","998906474","906474757"
+"1208","backend\models\Costumer","807","933198448",
+"1209","backend\models\Costumer","810","0",
+"1210","backend\models\Costumer","811","936539029",
+"1212","backend\models\Costumer","814","934343424","Махмудов Жамшид"
+"1213","backend\models\Costumer","815","934343424",
+"1216","backend\models\Costumer","817","913367084","Уктамов Камолиддин"
+"1228","backend\models\Costumer","802","907151631",
+"1244","backend\models\Costumer","805","998906474","906474757"
+"1249","backend\models\Costumer","771","995277307",
+"1256","backend\models\Costumer","715","913387745",
+"1257","backend\models\Costumer","704","935224433",
+"1259","backend\models\Costumer","696","770080014",
+"1261","backend\models\Costumer","250","913372222","-"
+"1262","backend\models\Costumer","243","977976688","-"
+"1263","backend\models\Costumer","239","0","-"
+"1264","backend\models\Costumer","139","973684144","-"
+"1265","backend\models\Costumer","90","943110644","-"
+"1266","backend\models\Costumer","47","912500106","-"
+"1269","backend\models\Costumer","22","970370002","-"
+"1270","backend\models\Costumer","21","971300052","-"
+"1271","backend\models\Costumer","19","993327070","-"
+"1273","backend\models\Costumer","819","883662981","Ашуров Бахтиер"
+"1275","backend\models\Costumer","776","0","0"
+"1276","backend\models\Costumer","726","0",
+"1277","backend\models\Costumer","800","0",
+"1278","backend\models\Costumer","792","973681833",
+"1279","backend\models\Costumer","783","0",
+"1280","backend\models\Costumer","772","939520272",
+"1281","backend\models\Costumer","768","937074442",
+"1282","backend\models\Costumer","761","919909191",
+"1283","backend\models\Costumer","752","907315555","Сардор"
+"1285","backend\models\Costumer","725","934976868",
+"1286","backend\models\Costumer","701","937074442",
+"1287","backend\models\Costumer","659","0","-"
+"1290","backend\models\Costumer","600","0","-"
+"1292","backend\models\Costumer","419","934325561","-"
+"1294","backend\models\Costumer","816","933144619",
+"1296","backend\models\Costumer","646","0","-"
+"1297","backend\models\Costumer","625","0","-"
+"1298","backend\models\Costumer","616","0","-"
+"1299","backend\models\Costumer","624","0","-"
+"1300","backend\models\Costumer","609","0","-"
+"1301","backend\models\Costumer","598","1","-"
+"1302","backend\models\Costumer","558","905002700","-"
+"1303","backend\models\Costumer","538","0","-"
+"1304","backend\models\Costumer","513","0","-"
+"1305","backend\models\Costumer","372","997530001","-"
+"1306","backend\models\Costumer","821","907324645","Норов Абдураим"
+"1307","backend\models\Costumer","822","992780700",
+"1310","backend\models\Costumer","604","993807778",
+"1315","backend\models\Costumer","823","936284121",
+"1316","backend\models\Costumer","823","920003331",
+"1318","backend\models\Costumer","639","974184444","Нозим ака"
+"1323","backend\models\Costumer","824","930510020",
+"1324","backend\models\Costumer","825","936630008",
+"1325","backend\models\Costumer","653","994129888","-"
+"1327","backend\models\Costumer","827","959030092",
+"1328","backend\models\Costumer","826","952129497",
+"1329","backend\models\Costumer","828","792291827",
+"1330","backend\models\Costumer","829","997488219","РАДЖАБОВ ШЕРЗОД"
+"1331","backend\models\Costumer","830","934333392","НУРОВ ФАЙОЗ"
+"1332","backend\models\Costumer","831","907300000",
+"1334","backend\models\Costumer","833","970680710",
+"1335","backend\models\Costumer","834","907302746",
+"1336","backend\models\Costumer","835","934167770","Раджабов Шерзод"
+"1342","backend\models\Costumer","841","912535004","УТКИР АКА"
+"1343","backend\models\Costumer","842","0",
+"1345","backend\models\Costumer","843","918550001",
+"1346","backend\models\Costumer","844","973684144","JAVOHIR NAVOIY MCHJ"
+"1348","backend\models\Costumer","846","935175255","Ганиев Улугбек"
+"1349","backend\models\Costumer","847","995880084","Узоков Лазиз"
+"1351","backend\models\Costumer","848","935215500","Алтинов Сухроб "
+"1352","backend\models\Costumer","849","0",
+"1353","backend\models\Costumer","850","0","0"
+"1354","backend\models\Costumer","851","944830070","Хамроев Бахшулло"
+"1355","backend\models\Costumer","852","913350507","Худойбердиев Бахриддин"
+"1356","backend\models\Costumer","853","0",
+"1360","backend\models\Costumer","854","942270487","Раззоков Элёр"
+"1361","backend\models\Costumer","855","933176001",
+"1363","backend\models\Costumer","856","912535004","Шомуродов Уткир"
+"1364","backend\models\Costumer","857","933176001","Тоиров Элбек"
+"1365","backend\models\Costumer","858","883213531",
+"1366","backend\models\Costumer","859","973650015",
+"1367","backend\models\Costumer","860","98 278 40",
+"1369","backend\models\Costumer","861","906467797",
+"1370","backend\models\Costumer","526","902331111",
+"1371","backend\models\Costumer","526","951171111",
+"1374","backend\models\Costumer","863","990210809","Файзуллаев Шахзод"
+"1377","backend\models\Costumer","813","997574075",
+"1379","backend\models\Costumer","867","997314067",
+"1380","backend\models\Costumer","868","0000","0"
+"1381","backend\models\Costumer","869","887973232","0"
+"1382","backend\models\Costumer","870","994290082",
+"1385","backend\models\Costumer","872","883200030",
+"1388","backend\models\Costumer","874","943730701","Мухторов Севдиёр"
+"1393","backend\models\Costumer","564","977978848",
+"1394","backend\models\Costumer","26","997576862",
+"1398","backend\models\Costumer","224","942537777","Навруз ака"
+"1399","backend\models\Costumer","224","906650001","Баходыр ака"
+"1401","backend\models\Costumer","421","912680007","-"
+"1404","backend\models\Costumer","879","976848186",
+"1405","backend\models\Costumer","880","997577979",
+"1406","backend\models\Costumer","555","907323000","-"
+"1407","backend\models\Costumer","555","973221888",
+"1409","backend\models\Costumer","882","906650001",
+"1410","backend\models\Costumer","883","1",
+"1412","backend\models\Costumer","884","0",
+"1413","backend\models\Costumer","886","934992310",
+"1414","backend\models\Costumer","887","901345444",
+"1415","backend\models\Costumer","888","0",
+"1419","backend\models\Costumer","891","99 750 78",
+"1420","backend\models\Costumer","890","909794544",
+"1421","backend\models\Costumer","893","934305500",
+"1422","backend\models\Costumer","894","883686686","НОРБЕКОВ ЖОНИБЕК"
+"1424","backend\models\Costumer","895","933164004",
+"1425","backend\models\Costumer","896","933164004",
+"1426","backend\models\Costumer","897","907314145",
+"1429","backend\models\Costumer","900","905009977","Норов Саидазим"
+"1430","backend\models\Costumer","901","936610709","Абдурахимов Кобилжон"
+"1433","backend\models\Costumer","903","942522089","Файзиев Хамза"
+"1434","backend\models\Costumer","904","913304358","913304358"
+"1440","backend\models\Costumer","906","933144619","933144619"
+"1441","backend\models\Costumer","907","933194973","КУВВАТОВ АНВАР"
+"1442","backend\models\Costumer","908","993392002","993392002"
+"1443","backend\models\Costumer","837","0",
+"1444","backend\models\Costumer","840","0",
+"1446","backend\models\Costumer","910","913090714","913090714"
+"1447","backend\models\Costumer","866","0","0"
+"1448","backend\models\Costumer","911","992137454",
+"1449","backend\models\Costumer","912","0","Жалилов Жасур"
+"1450","backend\models\Costumer","913","919868184","919868184"
+"1451","backend\models\Costumer","914","974429609",
+"1452","backend\models\Costumer","915","935807578","935807578"
+"1453","backend\models\Costumer","916","973775263",
+"1455","backend\models\Costumer","918","906474757","906474757"
+"1456","backend\models\Costumer","919","943707077","943707077"
+"1457","backend\models\Costumer","920","935218344","Ходжаев Фаттуло"
+"1459","backend\models\Costumer","921","0",
+"1460","backend\models\Costumer","917","973770049",
+"1461","backend\models\Costumer","922","995277307","995277307"
+"1462","backend\models\Costumer","923","913377576","970562888"
+"1463","backend\models\Costumer","924","933597939",
+"1467","backend\models\Costumer","928","907329104","907329104"
+"1468","backend\models\Costumer","929","0000000","000000000"
+"1469","backend\models\Costumer","930","906474757","906474757"
+"1470","backend\models\Costumer","931","952777075","""LONG LI CONSTRUCTION"" MCHJ"
+"1471","backend\models\Costumer","932","900890580",
+"1472","backend\models\Costumer","933","973681834","973681834"
+"1473","backend\models\Costumer","934","906477677",
+"1476","backend\models\Costumer","937","913308854","913308854"
+"1477","backend\models\Costumer","938","906474900","Тошпулотов Шерзод"
+"1478","backend\models\Costumer","939","0","ШУКУРОВ УМИД"
+"1479","backend\models\Costumer","940","943740550",
+"1480","backend\models\Costumer","941","000000000","000000000"
+"1485","backend\models\Costumer","943","939508380","939508380"
+"1489","backend\models\Costumer","946","907174200","Намозов Азамат"
+"1491","backend\models\Costumer","948","997444460","997444460"
+"1493","backend\models\Costumer","949","995911014","772799703"
+"1494","backend\models\Costumer","881","884431278","Курбонов Аслиддин"
+"1498","backend\models\Costumer","950","907300095",
+"1501","backend\models\Costumer","952","999401900","НАИМОВ КОБИЛЖОН"
+"1502","backend\models\Costumer","945","907300095","Imron Nur Poydevori"
+"1503","backend\models\Costumer","953","993887152",
+"1504","backend\models\Costumer","954","944714844","Хикматов Жасур"
+"1505","backend\models\Costumer","125","939508380","939508380"
+"1507","backend\models\Costumer","956","973207163","973207163"
+"1509","backend\models\Costumer","958","91 331 79",
+"1510","backend\models\Costumer","959","997092727","Ходжиев Нодир"
+"1511","backend\models\Costumer","960","933190009",
+"1514","backend\models\Costumer","964","959564455","Кодиров Суннат"
+"1518","backend\models\Costumer","965","959564455",
+"1519","backend\models\Costumer","961","770387177","Неъматов Акрам"
+"1521","backend\models\Costumer","963","931747654",
+"1523","backend\models\Costumer","966","500019449",
+"1524","backend\models\Costumer","955","906474757","000000000"
+"1526","backend\models\Costumer","482","0","-"
+"1527","backend\models\Costumer","969","913390270",
+"1528","backend\models\Costumer","968","883227770","Ганиев Камол"
+"1530","backend\models\Costumer","947","992076868","992076868"
+"1531","backend\models\Costumer","889","918550001",
+"1533","backend\models\Costumer","972","931489999",
+"1536","backend\models\Costumer","975","997188878",
+"1537","backend\models\Costumer","976","942472826",
+"1538","backend\models\Costumer","973","990697788",
+"1541","backend\models\Costumer","978","919868588",
+"1551","backend\models\Costumer","981","975264990","975264990"
+"1552","backend\models\Costumer","982","997317771","Худойбердиев Алишер"
+"1554","backend\models\Costumer","983","943777770","клиент - Шухрат ака"
+"1555","backend\models\Costumer","984","959564455","959564455"
+"1556","backend\models\Costumer","985","913088866",
+"1558","backend\models\Costumer","970","939223434",
+"1559","backend\models\Costumer","987","935011582","935011582"
+"1560","backend\models\Costumer","988","915546933","915546933"
+"1561","backend\models\Costumer","989","912465486",
+"1562","backend\models\Costumer","259","000000000","-"
+"1563","backend\models\Costumer","991","912345678",
+"1564","backend\models\Costumer","992","972828018","972828018"
+"1565","backend\models\Costumer","993","990144222","Азимов Аъзам"
+"1568","backend\models\Costumer","994","0",
+"1569","backend\models\Costumer","996","933132244","933132244"
+"1570","backend\models\Costumer","998","975582088","Нармурадов Мухтор"
+"1571","backend\models\Costumer","999","942570550",
+"1573","backend\models\Costumer","1001","905508626","Хожиев Нодир"
+"1574","backend\models\Costumer","1002","942553509","Шернаев Жонибек"
+"1575","backend\models\Costumer","902","907170106",
+"1576","backend\models\Costumer","902","912500106","Зехниддин ака"
+"1577","backend\models\Costumer","1003","880085651",
+"1578","backend\models\Costumer","1004","913327727",
+"1579","backend\models\Costumer","1005","0",
+"1580","backend\models\Costumer","1006","992016819",
+"1581","backend\models\Costumer","1007","936617411",
+"1582","backend\models\Costumer","1008","0",
+"1585","backend\models\Costumer","1010","995810609",
+"1586","backend\models\Costumer","1011","905508626","ХОДЖИЕВ НОДИР"
+"1588","backend\models\Costumer","1013","907323780","ЖУМАЕВ МУРОД"
+"1589","backend\models\Costumer","1014","935224170","Турсунов Улугбек"
+"1591","backend\models\Costumer","1015","905004212",
+"1593","backend\models\Costumer","1017","942520484","942520484"
+"1595","backend\models\Costumer","1018","991206725","991206725"
+"1597","backend\models\Costumer","1021","907391114","907391114"
+"1598","backend\models\Costumer","1022","970681218","САИДУЛЛАЕВ РАСУЛ"
+"1599","backend\models\Costumer","1023","934382151",
+"1600","backend\models\Costumer","1024","973783866","973783866"
+"1601","backend\models\Costumer","1020","947910777","Усто"
+"1602","backend\models\Costumer","1020","913330787","Эгаси"
+"1605","backend\models\Costumer","1025","995538989",
+"1609","backend\models\Costumer","1027","973222600",
+"1610","backend\models\Costumer","1028","949450071","972289793"
+"1611","backend\models\Costumer","753","997507744",
+"1612","backend\models\Costumer","1029","992470092",
+"1613","backend\models\Costumer","1009","0000000","Журакулов Камолиддин"
+"1615","backend\models\Costumer","1031","973677383","973677383"
+"1616","backend\models\Costumer","986","885599991","Нормурадов Дилшод"
+"1618","backend\models\Costumer","979","951310007",
+"1619","backend\models\Costumer","1033","997397379",
+"1620","backend\models\Costumer","899","912516025","912516021"
+"1621","backend\models\Costumer","1034","993600363",
+"1622","backend\models\Costumer","1035","944821957",
+"1624","backend\models\Costumer","1037","997092727","997092727"
+"1625","backend\models\Costumer","1038","0","Зоиров Сарвар"
+"1627","backend\models\Costumer","1036","973773663",
+"1628","backend\models\Costumer","1040","913369483",
+"1629","backend\models\Costumer","1041","936475161",
+"1631","backend\models\Costumer","1043","334665156","ЕРКУЛОВ ОБИД"
+"1634","backend\models\Costumer","1045","992881963",
+"1636","backend\models\Costumer","1042","883217222","Ахмедов Салохиддин"
+"1638","backend\models\Costumer","1047","934371212","Алишер Идиев"
+"1642","backend\models\Costumer","1049","0",
+"1643","backend\models\Costumer","1050","959564455","959564455"
+"1644","backend\models\Costumer","1051","907300000","907300000"
+"1645","backend\models\Costumer","1052","997507744","997507744"
+"1646","backend\models\Costumer","1053","944800007","СИРОЖОВ ЖОНИБЕК"
+"1647","backend\models\Costumer","1030","0","ЖУРАКУЛОВ ДИЛМУРОД"
+"1648","backend\models\Costumer","1054","930800010","ТУЛКИН АКА БИРЖА"
+"1649","backend\models\Costumer","1055","936590263","936590263"
+"1650","backend\models\Costumer","1058","934760204","934760204"
+"1651","backend\models\Costumer","1059","939500244","939500244"
+"1652","backend\models\Costumer","213","942217879","942217879"
+"1653","backend\models\Costumer","213","913363777","913363777"
+"1655","backend\models\Costumer","1060","934379504",
+"1656","backend\models\Costumer","1061","942211100",
+"1657","backend\models\Costumer","1062","990363422",
+"1658","backend\models\Costumer","1063","935175255","ГАНИЕВ УЛУГБЕК"
+"1659","backend\models\Costumer","1064","0","ХАМКОР КУРИЛИШ"
+"1660","backend\models\Costumer","1065","912484557","912484557"
+"1662","backend\models\Costumer","1066","972287400","972287400"
+"1663","backend\models\Costumer","16","973223933","-"
+"1664","backend\models\Costumer","1067","0","000000000"
+"1665","backend\models\Costumer","1068","88 252 00","MIRZAYEV AXRORJON IBODULLAYEVICH"
+"1667","backend\models\Costumer","1069","0","ХОМИДОВ УБАЙДУЛЛО"
+"1668","backend\models\Costumer","1070","0","NAV PRO BUILDINGS MCHJ"
+"1670","backend\models\Costumer","1071","771090266","771090266"
+"1671","backend\models\Costumer","1072","997503774",
+"1672","backend\models\Costumer","1073","973687840",
+"1673","backend\models\Costumer","1074","903345511",
+"1675","backend\models\Costumer","1075","770670007","Рустамов Абубакир"
+"1677","backend\models\Costumer","1057","907170607","LUYKS OIL"
+"1678","backend\models\Costumer","1077","935220053","935220053"
+"1679","backend\models\Costumer","1079","992594449","ПУЛАТОВ ЖАСУР"
+"1680","backend\models\Costumer","1080","947099992","947099992"
+"1681","backend\models\Costumer","1081","942244124",
+"1682","backend\models\Costumer","1076","00000000","000000000"
+"1683","backend\models\Costumer","1082","933152324",
+"1685","backend\models\Costumer","1083","000000000","000000000"
+"1686","backend\models\Costumer","876","995077432",
+"1687","backend\models\Costumer","1084","919241191","Рашидов Комилжон"
+"1688","backend\models\Costumer","1085","977955095","977955095"
+"1689","backend\models\Costumer","1086","913393389","913393389"
+"1691","backend\models\Costumer","1089","930897171","930897171"
+"1695","backend\models\Costumer","1091","883672888","ТУРСУНОВА СОКИНА"
+"1696","backend\models\Costumer","1092","907309661","Акрамов Гайрат"
+"1697","backend\models\Costumer","1044","885599181","Махмудов Нурали"
+"1698","backend\models\Costumer","1093","913377477","913377477"
+"1699","backend\models\Costumer","1094","913089901",
+"1701","backend\models\Costumer","977","991225300",
+"1703","backend\models\Costumer","1097","0","0"
+"1704","backend\models\Costumer","1098","0","0"
+"1707","backend\models\Costumer","1100","973208182","973208182"
+"1708","backend\models\Costumer","1101","883237700",
+"1709","backend\models\Costumer","1102","200101069","200101069"
+"1711","backend\models\Costumer","1103","936642561",
+"1712","backend\models\Costumer","1104","918529900","918529900"
+"1713","backend\models\Costumer","1105","998997370","Рихситилла"
+"1714","backend\models\Costumer","1099","906471519",
+"1715","backend\models\Costumer","1106","914006484","914006484"
+"1716","backend\models\Costumer","1107","907171222","907171222"
+"1717","backend\models\Costumer","1108","502215464","Рузимуродов Тулкин"
+"1719","backend\models\Costumer","1112","990331336",
+"1720","backend\models\Costumer","1115","0",
+"1725","backend\models\Costumer","1118","997302264",
+"1729","backend\models\Costumer","1119","994173906",
+"1730","backend\models\Costumer","1122","902332999",
+"1731","backend\models\Costumer","1048","902339999",
+"1732","backend\models\Costumer","1123","973224044",
+"1733","backend\models\Costumer","1124","993766429",
+"1734","backend\models\Costumer","1125","935216817","Жураев О.Т."
+"1735","backend\models\Costumer","1126","919901014",
+"1736","backend\models\Costumer","1128","913375858",
+"1737","backend\models\Costumer","1129","977479022",
+"1739","backend\models\Costumer","1120","907302700","Музаффар ака"
+"1741","backend\models\Costumer","1116","338072222",
+"1742","backend\models\Costumer","1088","998906195","Аскар ака"
+"1743","backend\models\Costumer","1032","935229339",
+"1744","backend\models\Costumer","1131","934392210","Облаев Муродилло"
+"1745","backend\models\Costumer","1132","997197200","Жумаев Аскар"
+"1746","backend\models\Costumer","1133","995763636",
+"1747","backend\models\Costumer","1134","905005599",
+"1748","backend\models\Costumer","1090","987785102","987785102"
+"1752","backend\models\Costumer","1137","942287779","ХОЛОВ УЛУГБЕК"
+"1755","backend\models\Costumer","1139","919888860",
+"1756","backend\models\Costumer","1140","936651018","ПАРДАЕВ САМАР"
+"1757","backend\models\Costumer","1141","907170607","ОМОНОВ ХАМИД"
+"1759","backend\models\Costumer","1143","943757004","ХАМРАЕВ КАМАРИДДИН"
+"1760","backend\models\Costumer","1144","+99890619","Бахтиёр ака"
+"1763","backend\models\Costumer","684"," 90500008","Дилшод"
+"1767","backend\models\Costumer","1149","00000000",
+"1768","backend\models\Costumer","1135","883200051",
+"1769","backend\models\Costumer","1135","939680051",
+"1770","backend\models\Costumer","1130","973008358","Юладшев Шерзод"
+"1771","backend\models\Costumer","1151","900880073",
+"1773","backend\models\Costumer","1153","913385053","913385053"
+"1774","backend\models\Costumer","1154","944808868","ЖУМАЕВ МЕХРИДДИН"
+"1777","backend\models\Costumer","1155","914380070",
+"1780","backend\models\Costumer","1157","942512959",
+"1782","backend\models\Costumer","1158","990710022",
+"1784","backend\models\Costumer","1159","913308777",
+"1787","backend\models\Costumer","1160","997007090",
+"1789","backend\models\Costumer","1156","937247647",
+"1790","backend\models\Costumer","1161","+99850720","Асака элит курилиш ХК"
+"1791","backend\models\Costumer","1162","997507744","Нодир Махмудович"
+"1793","backend\models\Costumer","1164","00000000",
+"1795","backend\models\Costumer","1165","907309292",
+"1798","backend\models\Costumer","1167","930880039",
+"1799","backend\models\Costumer","420","943444000","-"
+"1800","backend\models\Costumer","420","914010401",
+"1801","backend\models\Costumer","420","914122020",
+"1802","backend\models\Costumer","1169","991627736",
+"1803","backend\models\Costumer","1170","907322022",
+"1810","backend\models\Costumer","324","990290070","Рахмиддин ака"
+"1811","backend\models\Costumer","324","997850084","Нодир ака"
+"1813","backend\models\Costumer","110","905011111",
+"1814","backend\models\Costumer","1174","990623333",
+"1816","backend\models\Costumer","180","913088866","-"
+"1817","backend\models\Costumer","1175","712666661",
+"1818","backend\models\Costumer","1176","939548666","Рузиев Аскар"
+"1819","backend\models\Costumer","1177","0",
+"1822","backend\models\Costumer","1179","934628794","РУСТАМОВ ДИЛМУРОД"
+"1823","backend\models\Costumer","1180","+79670050",
+"1826","backend\models\Costumer","1172","00000000",
+"1828","backend\models\Costumer","1181","944848400",
+"1830","backend\models\Costumer","1148","0",
+"1831","backend\models\Costumer","1178","941795054","00000000"
+"1832","backend\models\Costumer","1178","973690007",
+"1833","backend\models\Costumer","942","973780201",
+"1834","backend\models\Costumer","980","881765050",
+"1835","backend\models\Costumer","974","943764074",
+"1836","backend\models\Costumer","905","913325000",
+"1837","backend\models\Costumer","845","902331111",
+"1838","backend\models\Costumer","820","0",
+"1839","backend\models\Costumer","806","0",
+"1840","backend\models\Costumer","794","973690007","Tolipov Bunyod"
+"1841","backend\models\Costumer","765","936618445",
+"1842","backend\models\Costumer","743","+99891991",
+"1843","backend\models\Costumer","647","993847303","-"
+"1844","backend\models\Costumer","645","0","-"
+"1845","backend\models\Costumer","642","907170103","-"
+"1846","backend\models\Costumer","638","0","-"
+"1847","backend\models\Costumer","629","914000963","-"
+"1848","backend\models\Costumer","627","930880084","-"
+"1849","backend\models\Costumer","621","0","-"
+"1850","backend\models\Costumer","620","907323000","-"
+"1851","backend\models\Costumer","607","946783094","-"
+"1852","backend\models\Costumer","437","0","-"
+"1853","backend\models\Costumer","1182","997438884",
+"1855","backend\models\Costumer","411","0","-"
+"1856","backend\models\Costumer","957","905007878","905007878"
+"1857","backend\models\Costumer","1016","997548183","997548183"
+"1858","backend\models\Costumer","1000","930952222","930952222"
+"1859","backend\models\Costumer","944","915404545",
+"1861","backend\models\Costumer","936","913308854","913308854"
+"1862","backend\models\Costumer","927","933132244","933132244"
+"1863","backend\models\Costumer","926","933105559","933105559"
+"1864","backend\models\Costumer","925","906470082","906470082"
+"1865","backend\models\Costumer","909","907178600","907178600"
+"1866","backend\models\Costumer","898","906460073",
+"1868","backend\models\Costumer","873","993392002","0"
+"1869","backend\models\Costumer","871","995077432","0"
+"1870","backend\models\Costumer","838","0",
+"1871","backend\models\Costumer","877","943790071","0"
+"1872","backend\models\Costumer","875","952773232",
+"1873","backend\models\Costumer","836","904075575",
+"1874","backend\models\Costumer","832","919909393",
+"1875","backend\models\Costumer","799","933198448",
+"1877","backend\models\Costumer","775","907174473",
+"1878","backend\models\Costumer","757","997370131",
+"1879","backend\models\Costumer","749","0",
+"1880","backend\models\Costumer","748","772530008",
+"1881","backend\models\Costumer","742","905000660",
+"1882","backend\models\Costumer","733","990144222",
+"1883","backend\models\Costumer","732","934341113",
+"1884","backend\models\Costumer","1185","000000000",
+"1885","backend\models\Costumer","1186","883449549",
+"1886","backend\models\Costumer","1187","934373516","Шодиева Наргиза"
+"1887","backend\models\Costumer","1188","934334811","Ахмедалиев Шухрат"
+"1888","backend\models\Costumer","1189","997724297","ЭРГАШОВ БОХОДИР"
+"1890","backend\models\Costumer","637","990894698","-"
+"1892","backend\models\Costumer","1146","507203400","507203400"
+"1893","backend\models\Costumer","1163","997810840",
+"1896","backend\models\Costumer","1145","919888860","000000000"
+"1897","backend\models\Costumer","1145","902331771",
+"1898","backend\models\Costumer","1142","0000000",
+"1900","backend\models\Costumer","1109","972112662","972112662"
+"1901","backend\models\Costumer","1190","952770068",
+"1902","backend\models\Costumer","1039","919911070","Лазиз"
+"1903","backend\models\Costumer","1184","907170400",
+"1904","backend\models\Costumer","1191","944892134",
+"1905","backend\models\Costumer","1192","000000000",
+"1906","backend\models\Costumer","1193","997127200","Тожиев Мурод"
+"1907","backend\models\Costumer","1194","0","""MILLENIUM CONSTRUCTION"" MCHJ"
+"1908","backend\models\Costumer","1195","935224611",
+"1909","backend\models\Costumer","1196","900898783",
+"1910","backend\models\Costumer","1197","952770068","OOO ""CHINA ENERGY INTL GROUP CAS"""
+"1911","backend\models\Costumer","1198","934628794","Рустамов Д.Б."
+"1912","backend\models\Costumer","1199","942580818","Каримов Жавохир"
+"1913","backend\models\Costumer","1095","992371902","992371902"
+"1915","backend\models\Costumer","1200","907390074","907390074"
+"1916","backend\models\Costumer","1201","907326391",
+"1917","backend\models\Costumer","1202","333917505",
+"1919","backend\models\Costumer","1204","907302992",
+"1920","backend\models\Costumer","1205","882987000",
+"1922","backend\models\Costumer","1207","982784004",
+"1923","backend\models\Costumer","1206","913360046","Хомидов Отабек"
+"1926","backend\models\Costumer","1208","976844242",
+"1927","backend\models\Costumer","1209","993310074",
+"1928","backend\models\Costumer","1138","0","САФАРОВ ФАРРУХ"
+"1931","backend\models\Costumer","1096","998900890","ARNAKULOV SHERZOD XAYRULLAYEVICH"
+"1932","backend\models\Costumer","1211","934314008",
+"1933","backend\models\Costumer","1212","880982221",
+"1935","backend\models\Costumer","465","943790071","-"
+"1936","backend\models\Costumer","439","943790071","-"
+"1939","backend\models\Costumer","1213","970680710",
+"1941","backend\models\Costumer","1166","943444000","ELEGANT RESIDENCE CONSTRUCTIONS MCHJ"
+"1942","backend\models\Costumer","1214","997313334","Жумаев Ойбек"
+"1943","backend\models\Costumer","1215","904182222","Давлатов Умар"
+"1947","backend\models\Costumer","1217","990623333",
+"1948","backend\models\Costumer","1218","905016020",
+"1950","backend\models\Costumer","1219","887960604",
+"1951","backend\models\Costumer","1220","997390461",
+"1952","backend\models\Costumer","1221","991783665",
+"1953","backend\models\Costumer","1203","907173433",
+"1954","backend\models\Costumer","1210","919190890",
+"1955","backend\models\Costumer","1222","954111133",
+"1956","backend\models\Costumer","1223","910898805",
+"1957","backend\models\Costumer","1224","992827700",
+"1958","backend\models\Costumer","1225","999500700",
+"1960","backend\models\Costumer","1227","942575225",
+"1961","backend\models\Costumer","1228","934370077",
+"1962","backend\models\Costumer","522","906460003","-"
+"1963","backend\models\Costumer","1229","973221888","Негматов Элдор"
+"1964","backend\models\Costumer","1230","997352383",
+"1965","backend\models\Costumer","935","999670008","913375858"
+"1966","backend\models\Costumer","1231","942554474",
+"1968","backend\models\Costumer","1232","900073308",
+"1969","backend\models\Costumer","1216","909279727","Нарзиев Отабек"
+"1970","backend\models\Costumer","30","906194575","-"
+"1972","backend\models\Costumer","1233","947440816","""ASIA TRANS GAS"""
+"1973","backend\models\Costumer","1226","900890000",
+"1974","backend\models\Costumer","1234","934304025",
+"1975","backend\models\Costumer","1235","936610279",
+"1976","backend\models\Costumer","1236","773001177",
+"1977","backend\models\Costumer","1183","973914445","00"
+"1980","backend\models\Costumer","1026","993188000",
+"1983","backend\models\Costumer","1147","902339999",
+"1984","backend\models\Costumer","1147","905000082",
+"1985","backend\models\Costumer","1238","939509909",
+"1986","backend\models\Costumer","1237","982789656",
+"1987","backend\models\Costumer","1239","900851010",
+"1988","backend\models\Costumer","1240","936602025",
+"1989","backend\models\Costumer","1241","936602025",
+"1990","backend\models\Costumer","1242","943790071",
+"1992","backend\models\Costumer","1243","992730404","Хусан ака"
+"1995","backend\models\Costumer","1245","933143569",
+"1996","backend\models\Costumer","1244","912540097","Янгибоев Анвар"
+"1997","backend\models\Costumer","1246","982741472",
+"2000","backend\models\Costumer","1248","0",
+"2001","backend\models\Costumer","1249","+99899758",
+"2002","backend\models\Costumer","1250","997587007","Эрагешев Улугбек"
+"2003","backend\models\Costumer","1251","950105080",
+"2006","backend\models\Costumer","1254","950105080",
+"2007","backend\models\Costumer","1255","972527970",
+"2008","backend\models\Costumer","1256","981230084",
+"2009","backend\models\Costumer","1257","00000000",
+"2012","backend\models\Costumer","1259","933129293",
+"2013","backend\models\Costumer","1260","993522219",
+"2014","backend\models\Costumer","29","0","-"
+"2015","backend\models\Costumer","1252","933440604",
+"2017","backend\models\Costumer","677","0","-"
+"2018","backend\models\Costumer","1171","712551675",
+"2019","backend\models\Costumer","1261","00000000",
+"2020","backend\models\Costumer","1262","913325554",
+"2021","backend\models\Costumer","1263","991730708",
+"2023","backend\models\Costumer","1264","935587768",
+"2024","backend\models\Costumer","1264","900887806",
+"2025","backend\models\Costumer","1265","935587768",
+"2026","backend\models\Costumer","1265","900887806",
+"2027","backend\models\Costumer","1152","000000000",
+"2028","backend\models\Costumer","1152","00000000",
+"2029","backend\models\Costumer","1266","977959561","""NAVOIY ME'MOR"" MCHJ"
+"2030","backend\models\Costumer","1267","958215505",
+"2033","backend\models\Costumer","1269","907318670","Мухиддинов Ислом"
+"2035","backend\models\Costumer","106","973203308","-"
+"2036","backend\models\Costumer","1271","997580078",
+"2037","backend\models\Costumer","1268","333917505","""YOU HE DEVELOPMENT"" MCHJ"
+"2038","backend\models\Costumer","1258","911650009",
+"2039","backend\models\Costumer","1272","772714220","MURADOV SHAVKAT"
+"2043","backend\models\Costumer","1273","911124967","""Qoshtepa Savdo Qurilish"" MCHJ"
+"2045","backend\models\Costumer","1275","777017715",
+"2047","backend\models\Costumer","1274","942811711",
+"2048","backend\models\Costumer","1276","000000000",
+"2049","backend\models\Costumer","1277","906462945","Саидов Улугбек"
+"2050","backend\models\Costumer","1278","951310007",
+"2051","backend\models\Costumer","1279","0",
+"2052","backend\models\Costumer","1280","942231700",
+"2053","backend\models\Costumer","1281","00000000",
+"2054","backend\models\Costumer","1282","00000000",
+"2055","backend\models\Costumer","1283","0",
+"2056","backend\models\Costumer","1286","957112070",
+"2057","backend\models\Costumer","1287","907177900",
+"2058","backend\models\Costumer","1289","000000000",
+"2059","backend\models\Costumer","1291","997505570",
+"2060","backend\models\Costumer","1292","000000",
+"2061","backend\models\Costumer","1293","936655300",
+"2062","backend\models\Costumer","1294","0","Кулдошев Саид"
+"2063","backend\models\Costumer","1295","000000",
+"2064","backend\models\Costumer","1296","000000000",
+"2066","backend\models\Costumer","1297","000000000",
+"2068","backend\models\Costumer","1173","949994433","Самадов Равшан"
+"2069","backend\models\Costumer","1300","0000000",
+"2070","backend\models\Costumer","1301","+99897 82",
+"2071","backend\models\Costumer","1302","+99897 82",
+"2072","backend\models\Costumer","1303","000000",
+"2073","backend\models\Costumer","1304","+99893001","0"
+"2074","backend\models\Costumer","1305","0",
+"2075","backend\models\Costumer","1306","0",
+"2076","backend\models\Costumer","1308","910852222",
+"2077","backend\models\Costumer","636","0","-"
+"2078","backend\models\Costumer","1136","000000","000000000"
+"2080","backend\models\Costumer","751","0000000","0"
+"2081","backend\models\Costumer","1309","99890 500","0"
+"2083","backend\models\Costumer","1310","000000",
+"2084","backend\models\Costumer","118","0000000","-"
+"2085","backend\models\Costumer","1311","00000000",
+"2086","backend\models\Costumer","1312","907390931",
+"2087","backend\models\Costumer","1313","0",
+"2089","backend\models\Costumer","1314","973111016",
+"2090","backend\models\Costumer","1315","0",
+"2091","backend\models\Costumer","1316","906657787",
+"2092","backend\models\Costumer","1318","0","0"
+"2093","backend\models\Costumer","1319","953730078",
+"2094","backend\models\Costumer","1320","000000000",
+"2095","backend\models\Costumer","1321","00",
+"2096","backend\models\Costumer","1322","0000",
+"2097","backend\models\Costumer","1324","0000",
+"2098","backend\models\Costumer","1329","97 322 76","0"
+"2099","backend\models\Costumer","1330","913100837",
+"2100","backend\models\Costumer","1331","0",
+"2101","backend\models\Costumer","1332","900101686",
+"2102","backend\models\Costumer","1333","0",
+"2104","backend\models\Costumer","1335","0",
+"2105","backend\models\Costumer","1336","952480222",
+"2106","backend\models\Costumer","1337","0",
+"2107","backend\models\Costumer","1338","0",
+"2108","backend\models\Costumer","1340","000000000","00000000000"
+"2109","backend\models\Costumer","1341","0",
+"2110","backend\models\Costumer","1343","0",
+"2111","backend\models\Costumer","1344","0",
+"2112","backend\models\Costumer","1345","913095500",
+"2113","backend\models\Costumer","1346","000000000",
+"2114","backend\models\Costumer","1347","998912452",
+"2115","backend\models\Costumer","1348","0",
+"2116","backend\models\Costumer","1349","0",
+"2117","backend\models\Costumer","1350","0",
+"2118","backend\models\Costumer","1351","973701046",
+"2119","backend\models\Costumer","1352","0","0"
+"2120","backend\models\Costumer","1353","0",
+"2121","backend\models\Costumer","1354","997790089",
+"2122","backend\models\Costumer","1355","998913334",
+"2123","backend\models\Costumer","1356","0",
+"2124","backend\models\Costumer","1357","0",
+"2125","backend\models\Costumer","1358","000000000",
+"2126","backend\models\Costumer","1359","943205410",
+"2127","backend\models\Costumer","1360","00000",
+"2128","backend\models\Costumer","1361","912528228",
+"2129","backend\models\Costumer","1362","00",
+"2130","backend\models\Costumer","1334","0",
+"2131","backend\models\Costumer","1363","886688525",
+"2132","backend\models\Costumer","1365","0000",
+"2133","backend\models\Costumer","1366","0000",
+"2134","backend\models\Costumer","1367","943672240",
+"2135","backend\models\Costumer","1368","943792266",
+"2136","backend\models\Costumer","1369","943792266",
+"2137","backend\models\Costumer","1370","913377665",
+"2138","backend\models\Costumer","1371","957274847",
+"2139","backend\models\Costumer","1372","933141110",
+"2140","backend\models\Costumer","1373","973204601",
+"2141","backend\models\Costumer","1375","00",
+"2142","backend\models\Costumer","1376","883234923",
+"2143","backend\models\Costumer","1377","00",
+"2144","backend\models\Costumer","1378","0",
+"2145","backend\models\Costumer","1379","943737779",
+"2147","backend\models\Costumer","1381","993607745",
+"2148","backend\models\Costumer","1382","975595681",
+"2149","backend\models\Costumer","1383","995277307",
+"2151","backend\models\Costumer","1385","999322058",
+"2152","backend\models\Costumer","1386","0",
+"2153","backend\models\Costumer","1380","00000",
+"2154","backend\models\Costumer","1387","000",
+"2155","backend\models\Costumer","1384","000",
+"2156","backend\models\Costumer","1388","934390920",
+"2157","backend\models\Costumer","1389","00",
+"2158","backend\models\Costumer","1390","00",
+"2159","backend\models\Costumer","1391","913320212",
+"2160","backend\models\Costumer","1392","0000",
+"2162","backend\models\Costumer","1394","0000",
+"2163","backend\models\Costumer","1397","0000",
+"2164","backend\models\Costumer","1399","0000",
+"2165","backend\models\Costumer","1400","992732002",
+"2166","backend\models\Costumer","1402","00",
+"2167","backend\models\Costumer","1405","0000",
+"2168","backend\models\Costumer","1406","0",
+"2169","backend\models\Costumer","1407","970850084",
+"2170","backend\models\Costumer","1408","00",
+"2171","backend\models\Costumer","1409","0",
+"2172","backend\models\Costumer","1410","934395667",
+"2173","backend\models\Costumer","1411","883686686",
+"2174","backend\models\Costumer","1413","0",
+"2175","backend\models\Costumer","1414","902334300",
+"2176","backend\models\Costumer","1416","990741977",
+"2177","backend\models\Costumer","1422","0",
+"2178","backend\models\Costumer","1423","934371131",
+"2179","backend\models\Costumer","1425","93 314 00",
+"2180","backend\models\Costumer","1428","942589622",
+"2181","backend\models\Costumer","1429","942244242",
+"2182","backend\models\Costumer","1432","931949199",
+"2183","backend\models\Costumer","1437","939090051",
+"2184","backend\models\Costumer","1440","912493033",
+"2185","backend\models\Costumer","1441","94 374 01",
+"2186","backend\models\Costumer","1446","93 824 33",
+"2187","backend\models\Costumer","1448","900157775",
+"2188","backend\models\Costumer","1451","905005369",
+"2189","backend\models\Costumer","1455","997555890",
+"2190","backend\models\Costumer","1460","990597471",
+"2191","backend\models\Costumer","1461","992450477",
+"2192","backend\models\Costumer","1464","990597471",
+"2193","backend\models\Costumer","1471","997714474",
+"2194","backend\models\Costumer","1473","933111811",
+"2195","backend\models\Costumer","1474","934627525",
+"2196","backend\models\Costumer","1477","0",
+"2197","backend\models\Costumer","1479","930868121",
+"2198","backend\models\Costumer","1481","913099787",
+"2199","backend\models\Costumer","1484","0",
+"2200","backend\models\Costumer","1487","907390144",
+"2201","backend\models\Costumer","1488","0",
+"2202","backend\models\Costumer","1489","0",
+"2203","backend\models\Costumer","1495","973206781",
+"2204","backend\models\Costumer","1498","95 956445",
+"2205","backend\models\Costumer","1501","0",
+"2206","backend\models\Costumer","1533","93 522 74",
+"2207","backend\models\Costumer","1568","902339888",
+"2208","backend\models\Costumer","1733","90 049 05",
